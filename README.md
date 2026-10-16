@@ -1,2 +1,4 @@
-# Triangulos2
-Projeto C# - Para descobrir tipo de triângulos.
+# Triangulos - C#
+
+Projeto em C# - Para descobrir tipo de triângulos.
+
